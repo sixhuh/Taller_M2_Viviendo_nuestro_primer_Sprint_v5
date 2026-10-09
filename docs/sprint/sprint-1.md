@@ -1,31 +1,16 @@
 <!-- 
-Plataforma Digital de Salud
-Problema
 
-Actualmente, en algunos centros de salud se presentan dificultades relacionadas con las filas y los tiempos de espera, la pérdida o duplicación de información, la dificultad para agendar citas, el manejo de historias clínicas en papel y la falta de seguimiento de la información de los pacientes.
+Sprint 1: Organización del proyecto
+Objetivo: organizar la información inicial de la clínica.
+Actividades
+- Crear el repositorio del proyecto en GitHub.
+- Agregar el archivo README con la descripción del proyecto.
+- Organizar las tareas que se van a realizar.
+- Definir las funciones principales que necesita la clínica.
+Resultado esperado
+Tener el proyecto creado y organizado, con la información básica para comenzar a trabajar.
+Historias de usuario
+- Como integrante del equipo, quiero conocer el objetivo del proyecto para saber qué vamos a realizar.
+- Como usuario, quiero que el sistema tenga las funciones principales de una clínica para facilitar su uso.
 
-Producto
-
-La Plataforma Digital de Salud es una solución web orientada a mejorar la gestión de los servicios de salud, conectando a pacientes y profesionales.
-
-La plataforma permitirá:
-
-Registrar y gestionar usuarios.
-Agendar citas médicas.
-Consultar la disponibilidad de los profesionales.
-Gestionar historias clínicas digitales.
-Gestionar órdenes y resultados médicos.
-Generar reportes para apoyar la gestión del centro de salud.
-Equipo
-Jhoan Santiago Guerrero Tabera
-Miguel Angel Cañas Marquez
-Jose Medina
-Tecnologías
-HTML
-CSS
-JavaScript
-Organización
-
-El proyecto se organiza utilizando Scrum y GitHub para gestionar la documentación, el código fuente y la evolución del proyecto durante los diferentes Sprints.
-
--->
+ -->
